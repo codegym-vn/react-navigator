@@ -15,7 +15,7 @@
 
 # Độ Khó ***
 # Hướng dẫn:
-- Step 1: Tạo 1 TabNavigator chứa 2 StackNavigator là MemberStack, và MeStack
+- Tạo 1 TabNavigator chứa 2 StackNavigator là MemberStack, và MeStack
 - MeStack: tạo 1 component Me, data lấy từ 1 file json trong Project
 - MemberStack: Khai báo 2 màn hình MemberScreen và MemberDetailScreen nằm trong StackNavigator này
 Viết code tương tự như MeStack, lấy dữ liệu từ file JSON đổ vào màn hình Members,
