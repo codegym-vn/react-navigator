@@ -20,3 +20,14 @@
 - MemberStack: Khai báo 2 màn hình MemberScreen và MemberDetailScreen nằm trong StackNavigator này
 Viết code tương tự như MeStack, lấy dữ liệu từ file JSON đổ vào màn hình Members,
 Tại màn hình Members, Sử dụng navigator truyền dữ liệu sang màn hình detail và hiển thị thông tin chi tiết hơn ra màn hình
+
+# Ảnh demo
+
+- HomeScreen
+![alt]()
+
+- MeScreen
+![alt]()
+
+- MemberDetailScreen
+![alt]()
