@@ -24,10 +24,13 @@ Tại màn hình Members, Sử dụng navigator truyền dữ liệu sang màn h
 # Ảnh demo
 
 - HomeScreen
-![alt]()
+
+![alt](https://github.com/anhtbok92/ReactNavigatorReactNativeTraining/blob/master/img/1.png)
 
 - MeScreen
-![alt]()
+
+![alt](https://github.com/anhtbok92/ReactNavigatorReactNativeTraining/blob/master/img/2.png)
 
 - MemberDetailScreen
-![alt]()
+
+![alt](https://github.com/anhtbok92/ReactNavigatorReactNativeTraining/blob/master/img/3.png)
